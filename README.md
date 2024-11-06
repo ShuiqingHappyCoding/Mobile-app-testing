@@ -1,6 +1,6 @@
 # Mobile-app-testing
 # Mobile app testing matrics - apps' functionality, compatibility, usability, accessibility, stability, performance, and security
-# a app testing plan
+# an app testing plan
 #1. installs or upgrade successfully
 #2. funcationality works as intended
 #3. it can be compatible on different platforms or Devices
